@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.8.3" type="template">
+	<name>alex-sumner-temp</name>
+	<creationDate>2018-01-09</creationDate>
+	<author>Denise Buder, Lukas Seiwald, Isabella Sperr, Melanie Reisenbichler</author>
+	<authorEmail>dbuder.mmt-b2016@fh-salzburg.ac.at</authorEmail>
+	<copyright>Buder Seiwald Sperr Reisenbichler 2018</copyright>
+	<license>MIT</license>
+	<version>1.0.2</version>
+	<description>My New Template</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>images</folder>
+		<folder>css</folder>
+	</files>
+	<positions>
+		<position>breadcrumb</position>
+		<position>left</position>
+		<position>right</position>
+		<position>top</position>
+		<position>user1</position>
+		<position>user2</position>
+		<position>user3</position>
+		<position>user4</position>
+		<position>footer</position>
+	</positions>
+</extension>
