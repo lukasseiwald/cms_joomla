@@ -1,0 +1,84 @@
+ADOBE INDESIGN - DRUCKANLEITUNGEN FÜR BELICHTUNGSBÜROBERICHT
+
+SATZDATEINAME: Handout.indd
+
+PACKDATUM: 17.01.18 11:47
+Erstellungsdatum 17.01.18
+Änderungsdatum: 17.01.18
+
+AUFTRAGGEBER
+
+Firma: 
+Ansprechpartner: 
+Adresse: 
+
+
+
+
+
+Telefon: 
+Fax: 
+E-Mail: 
+
+BESONDERE ANWEISUNGEN UND ANDERE ANMERKUNGEN
+
+
+
+
+
+
+Externe Zusatzmodule 0
+Nicht deckende Objekte:Auf Seite1, 2, 3, 4, A
+
+SCHRIFTARTEN
+2 Schriftart(en) verwendet; 0 fehlend, 0 eingebettet, 0 unvollst., 0 geschützt
+
+Schriftarten verpackt
+- Name: Avenir-Medium; Typ: TrueType, Status: OK
+- Name: Avenir-Roman; Typ: TrueType, Status: OK
+
+
+FARBEN UND DRUCKFARBEN
+4 Prozessfarbe(n); 0 Volltonfarbe(n)
+
+- Name und Typ: Prozessfarbe Cyan; Winkel: 0,000; Linien/Zoll: 0,000
+- Name und Typ: Prozessfarbe Magenta; Winkel: 0,000; Linien/Zoll: 0,000
+- Name und Typ: Prozessfarbe Gelb; Winkel: 0,000; Linien/Zoll: 0,000
+- Name und Typ: Prozessfarbe Schwarz; Winkel: 0,000; Linien/Zoll: 0,000
+
+
+VERKNÜPFUNGEN UND BILDER
+(Nur fehlende & eingebettete Verknüpfungen)
+Verknüpfungen und Bilder: 6 Verknüpfung(en) gefunden; 0 geändert, 0 fehlend 0 Zugriff nicht möglich
+Bilder: 0 eingebettet, 6 verwenden RGB-Farbraum
+
+
+DRUCKEINSTELLUNGEN
+PPD: n. zutr., (Deskjet 3070 B611 series)
+Druckausgabe: Drucker
+Anzahl der Exemplare: 1
+Druckbögen: Nein
+Gerade/Ungerade Seiten: Beides
+Seiten: Alle
+Probedruck: Nein
+Unterteilung: Ohne
+Skalieren: 100 %, 100 %
+Seitenposition: Oben links
+Ebenen drucken: Sichtbare und druckbare Ebenen
+Druckermarken: Ohne
+Anschnitt: 0 mm, 0 mm, 0 mm, 0 mm
+Farbe: Composite-RGB
+Überfüllungsmodus: Ohne
+Bilddaten senden: Auflösung reduzieren
+OPI/DCS-Bildersetzung: Nein
+Seitenformat: A4
+Papierabmessungen: 210 mm x 296,99 mm
+Format: Hochformat
+Negativ: Nein
+Spiegelmodus: Aus
+
+
+DATEIPAKETLISTE
+
+1. Handout.indd; Typ: Adobe InDesign-Satzdatei; Größe: 1008K
+2. Avenir.ttc; Typ: Schriftartendatei; Größe: 1549K
