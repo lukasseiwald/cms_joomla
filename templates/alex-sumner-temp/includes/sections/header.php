@@ -1,3 +1,4 @@
+<body>
 <header id="header">
         <section id="header_container" class="clearfix">
         <h1 class="logo">
