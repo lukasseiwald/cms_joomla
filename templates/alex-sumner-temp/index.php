@@ -50,7 +50,7 @@
   <section id="serv">
     <section id="serv-content">
       <h2>Design</h2>
-      <img src="templates/alex-sumner-temp/images/design.png" alt="design-icon">
+      <img src="templates/<?php echo $this->template ?>/images/design.png" alt="design-icon">
     </section>
     <section id="serv-content">
       <h2>Strategie</h2>
