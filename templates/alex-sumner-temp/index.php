@@ -68,6 +68,7 @@
 
                 <h1><?php echo $row->title ?> </h1>
 
+
                 <div class="article">
                     <?php echo $row->introtext ?>
                 </div>
