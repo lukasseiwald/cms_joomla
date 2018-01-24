@@ -3,11 +3,12 @@ defined('_JEXEC') or die('Restricted access');
 
     global $mainframe;
     jimport('joomla.filesystem.file');
-    $slider = new JParameter(JFile::read(JPATH_BASE.DS.'templates'.DS.$mainframe->getTemplate().DS.'params.ini'));
 
-    $slide_path = 'templates/' . $mainframe->getTemplate().DS.'images/slides/';
+    $img = new JParameter(JFile::read(JPATH_BASE.DS.'templates'.DS.$mainframe->getTemplate().DS.'params.ini'));
 
-    $image1 = $slider->get( 'image1' );
+    $img_path = 'images/' . $mainframe->getTemplate().DS.'images/';
+
+    $image1 = $img->get( 'consulting' );
     $caption1 = $slider->get( 'caption1' );
 
     $image2 = $slider->get( 'image2' );
@@ -19,11 +20,11 @@ defined('_JEXEC') or die('Restricted access');
     $image4 = $slider->get( 'image4' );
     $caption4 = $slider->get( 'caption4' );
 
-    $document   = &JFactory::getDocument();
-    $renderer   = $document->loadRenderer('modules');
-    $options    = array('style' => 'xhtml');
-    $columns    = 'columns';
-    $images = 'images';
+    $document	= &JFactory::getDocument();
+    $renderer	= $document->loadRenderer('modules');
+    $options	= array('style' => 'xhtml');
+    $columns	= 'columns';
+    $images	= 'images';
 
 ?>
 
@@ -63,15 +64,19 @@ defined('_JEXEC') or die('Restricted access');
 
 </article>
 
-    <?php $i = $this->pagination->limitstart;
-    $rowcount = $this->params->def('num_leading_articles', 1);
-    for ($y = 0; $y < $rowcount && $i < $this->total; $y++, $i++) : ?>
-            <?php $this->item =& $this->getItem($i, $this->params);
-            echo $this->loadTemplate('item'); ?>
-    <?php endfor; ?>
+
+	<?php $i = $this->pagination->limitstart;
+	$rowcount = $this->params->def('num_leading_articles', 1);
+	for ($y = 0; $y < $rowcount && $i < $this->total; $y++, $i++) : ?>
+			<?php $this->item =& $this->getItem($i, $this->params);
+			echo $this->loadTemplate('item'); ?>
+	<?php endfor; ?>
+
+
 
     <section id="columns" class="clearfix">
         <?php echo $renderer->render($columns, $options, null); ?>
+
 
     </section>
 
@@ -79,5 +84,6 @@ defined('_JEXEC') or die('Restricted access');
 
     <section id="images" class="clearfix">
     <?php echo $renderer->render($images, $options, null); ?>
+
 
     </section>
