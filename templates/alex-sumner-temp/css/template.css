@@ -93,6 +93,9 @@ header {
     padding-top: 1em; }
     header #mainnav .nav {
       display: flex; }
+      header #mainnav li{
+        padding-left: 0.7em;
+      }
     header #mainnav a {
       font-size: 1.2em;
       text-decoration: none;
