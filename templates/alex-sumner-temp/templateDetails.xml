@@ -10,6 +10,7 @@
 	<description>My New Template</description>
 	<files>
 		<filename>index.php</filename>
+		<filename>aboutme.php</filename>
 		<filename>templateDetails.xml</filename>
 		<folder>images</folder>
 		<folder>css</folder>

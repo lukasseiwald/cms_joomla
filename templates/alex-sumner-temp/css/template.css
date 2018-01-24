@@ -154,7 +154,7 @@ header {
 
 #hero {
   width: 100%;
-  background-image: url("./images/hero.jpg");
+  background-image: url("http://127.0.0.1:8080/cms_joomla/images/hero.jpg");
   background-size: cover;
   height: 22em;
   display: flex;

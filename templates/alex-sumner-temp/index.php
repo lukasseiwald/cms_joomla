@@ -2,14 +2,20 @@
 <!DOCTYPE html>
 <html xml:lang="<?php echo $this->language; ?>" lang="<?php echo $this->language; ?>" >
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
   <?php include_once(JPATH_ROOT . "/templates/" . $this->template . '/includes/sections/setup.php'); ?>
   <?php include_once(JPATH_ROOT . "/templates/" . $this->template . '/includes/sections/head.php'); ?>
 </head>
 
 <?php include_once(JPATH_ROOT . "/templates/" . $this->template . '/includes/sections/header.php'); ?>
+    
+    
+    <!--
+    <section id="main" class="clearfix">
+      <jdoc:include type="component"/>
+    </section> 
+    --> 
+    
 
     <section id="hero">
       <section id="hero2">
@@ -22,20 +28,21 @@
       </section>
     </section>
 
+
     <section id="services">
     <h1>Leistungen</h1>
       <section id="serv">
         <section id="serv-content">
           <h2>Design</h2>
-          <img src= "<?php echo $this->baseurl ?>/images/<?php echo design?>" alt="design-icon">
+          <img src= "templates/<?php echo $this->template ?>/images/design.png" alt="design-icon">
         </section>
         <section id="serv-content">
           <h2>Strategie</h2>
-          <img src="templates/alex-sumner-temp/images/strategy.png" alt="strategy-icon">
+          <img src="templates/<?php echo $this->template ?>/images/strategy.png" alt="strategy-icon">
         </section>
         <section id="serv-content">
           <h2>Consulting</h2>
-          <img src="templates/alex-sumner-temp/images/consulting.png" alt="consulting-icon">
+          <img src="templates/<?php echo $this->template ?>/images/consulting.png" alt="consulting-icon">
         </section>
       </section>
     </section>
