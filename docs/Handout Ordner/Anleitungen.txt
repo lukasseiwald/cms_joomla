@@ -2,9 +2,9 @@ ADOBE INDESIGN - DRUCKANLEITUNGEN FÜR BELICHTUNGSBÜROBERICHT
 
 SATZDATEINAME: Handout.indd
 
-PACKDATUM: 17.01.18 11:47
-Erstellungsdatum 17.01.18
-Änderungsdatum: 17.01.18
+PACKDATUM: 24.01.18 13:43
+Erstellungsdatum 24.01.18
+Änderungsdatum: 24.01.18
 
 AUFTRAGGEBER
 
@@ -28,7 +28,7 @@ BESONDERE ANWEISUNGEN UND ANDERE ANMERKUNGEN
 
 
 Externe Zusatzmodule 0
-Nicht deckende Objekte:Auf Seite1, 2, 3, 4, A
+Nicht deckende Objekte:Auf Seite1, 2, 3, 4, 6, A
 
 SCHRIFTARTEN
 2 Schriftart(en) verwendet; 0 fehlend, 0 eingebettet, 0 unvollst., 0 geschützt
@@ -49,8 +49,8 @@ FARBEN UND DRUCKFARBEN
 
 VERKNÜPFUNGEN UND BILDER
 (Nur fehlende & eingebettete Verknüpfungen)
-Verknüpfungen und Bilder: 6 Verknüpfung(en) gefunden; 0 geändert, 0 fehlend 0 Zugriff nicht möglich
-Bilder: 0 eingebettet, 6 verwenden RGB-Farbraum
+Verknüpfungen und Bilder: 7 Verknüpfung(en) gefunden; 0 geändert, 0 fehlend 0 Zugriff nicht möglich
+Bilder: 0 eingebettet, 7 verwenden RGB-Farbraum
 
 
 DRUCKEINSTELLUNGEN
@@ -80,5 +80,5 @@ Spiegelmodus: Aus
 
 DATEIPAKETLISTE
 
-1. Handout.indd; Typ: Adobe InDesign-Satzdatei; Größe: 1008K
+1. Handout.indd; Typ: Adobe InDesign-Satzdatei; Größe: 1108K
 2. Avenir.ttc; Typ: Schriftartendatei; Größe: 1549K
